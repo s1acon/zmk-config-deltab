@@ -1,8 +1,8 @@
 file_format: "1"
-id: deltab
-name: deltab
+id: corne
+name: Corne
 type: shield
-url: https://github.com/s1acon/deltab/
+url: https://github.com/foostan/crkbd/
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -11,5 +11,5 @@ features:
   - underglow
   - studio
 siblings:
-  - deltab_left
-  - deltab_right
+  - corne_left
+  - corne_right
