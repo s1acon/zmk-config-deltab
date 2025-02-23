@@ -1,0 +1,15 @@
+file_format: "1"
+id: deltab
+name: deltab
+type: shield
+url: https://github.com/s1acon/deltab/
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow
+  - studio
+siblings:
+  - deltab_left
+  - deltab_right
